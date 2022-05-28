@@ -27,6 +27,7 @@ class _LoadingState extends State<Loading> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.grey,
+      child: Padding( padding: EdgeInsets )
     );
   }
 }
